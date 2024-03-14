@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Marjory Lourenço</Text>
       <Text>14/04/2024</Text>
+      <Text>Oláit init</Text>
       <Text>14/04/2024</Text>
       <br></br>
       <Button title='Salvar'></Button> 
