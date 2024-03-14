@@ -11,6 +11,7 @@ export default function App() {
       <br></br>
       <Button title='Salvar'></Button> 
        <Button title='Entrar'></Button> 
+       <Button title='Cancelar'></Button> 
     </View>
   );
 }
